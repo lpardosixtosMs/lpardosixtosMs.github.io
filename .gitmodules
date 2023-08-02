@@ -10,3 +10,6 @@
 [submodule "SpeedometerComplexHandcraftedAll"]
 	path = SpeedometerComplexHandcraftedAll
 	url = https://github.com/lpardosixtosMs/Speedometer
+[submodule "SpeedometerNoInlineSVG1"]
+	path = SpeedometerNoInlineSVG1
+	url = https://github.com/lpardosixtosMs/Speedometer
