@@ -16,3 +16,6 @@
 [submodule "SpeedometerRmFlexbox"]
 	path = SpeedometerRmFlexbox
 	url = https://github.com/lpardosixtosMs/Speedometer
+[submodule "SpeedometerSizesTest"]
+	path = SpeedometerSizesTest
+	url = https://github.com/lpardosixtosMs/Speedometer
