@@ -25,3 +25,6 @@
 [submodule "SpeedometerSVGNoUse"]
 	path = SpeedometerSVGNoUse
 	url = https://github.com/lpardosixtosMs/Speedometer
+[submodule "SpeedometerFixDOMCount"]
+	path = SpeedometerFixDOMCount
+	url = https://github.com/lpardosixtosMs/Speedometer
