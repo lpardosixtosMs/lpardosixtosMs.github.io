@@ -1,6 +1,3 @@
-[submodule "SpeedometerComplexManual"]
-	path = SpeedometerComplexManual
-	url = https://github.com/lpardosixtosMs/Speedometer
 [submodule "SpeedometerComplexGenerated"]
 	path = SpeedometerComplexGenerated
 	url = https://github.com/lpardosixtosMs/Speedometer
@@ -28,3 +25,6 @@
 [submodule "Speedometer"]
 	path = Speedometer
 	url = https://github.com/lpardosixtosMs/Speedometer
+[submodule "SpeedometerDisplayNone"]
+	path = SpeedometerDisplayNone
+	url = https://github.com/lpardosixtosMs/Speedometer.git
