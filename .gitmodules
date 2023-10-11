@@ -28,3 +28,6 @@
 [submodule "SpeedometerDisplayNone"]
 	path = SpeedometerDisplayNone
 	url = https://github.com/lpardosixtosMs/Speedometer.git
+[submodule "SpeedometerExp1"]
+	path = SpeedometerExp1
+	url = https://github.com/lpardosixtosMs/Speedometer
