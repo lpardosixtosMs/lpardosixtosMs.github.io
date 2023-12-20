@@ -1,36 +1,6 @@
-[submodule "SpeedometerComplexGenerated"]
-	path = SpeedometerComplexGenerated
-	url = https://github.com/lpardosixtosMs/Speedometer
-[submodule "SpeedometerComplexHandcraftedAll"]
-	path = SpeedometerComplexHandcraftedAll
-	url = https://github.com/lpardosixtosMs/Speedometer
-[submodule "SpeedometerNoInlineSVG1"]
-	path = SpeedometerNoInlineSVG1
-	url = https://github.com/lpardosixtosMs/Speedometer
 [submodule "SpeedometerRmFlexbox"]
 	path = SpeedometerRmFlexbox
 	url = https://github.com/lpardosixtosMs/Speedometer
-[submodule "SpeedometerSizesTest"]
-	path = SpeedometerSizesTest
-	url = https://github.com/lpardosixtosMs/Speedometer
-[submodule "SpeedometerWebComponents"]
-	path = SpeedometerWebComponents
-	url = https://github.com/lpardosixtosMs/Speedometer
-[submodule "SpeedometerSVGNoUse"]
-	path = SpeedometerSVGNoUse
-	url = https://github.com/lpardosixtosMs/Speedometer
-[submodule "SpeedometerFixDOMCount"]
-	path = SpeedometerFixDOMCount
-	url = https://github.com/lpardosixtosMs/Speedometer
 [submodule "Speedometer"]
 	path = Speedometer
-	url = https://github.com/lpardosixtosMs/Speedometer
-[submodule "SpeedometerDisplayNone"]
-	path = SpeedometerDisplayNone
-	url = https://github.com/lpardosixtosMs/Speedometer.git
-[submodule "SpeedometerExp1"]
-	path = SpeedometerExp1
-	url = https://github.com/lpardosixtosMs/Speedometer
-[submodule "SpeedometerHiddenNone"]
-	path = SpeedometerHiddenNone
 	url = https://github.com/lpardosixtosMs/Speedometer
